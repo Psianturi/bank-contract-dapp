@@ -1,7 +1,7 @@
-<p> Learn this project from Cadena.
+<p> <h3><i>Learn this project from Cadena.</i></h3>
   <br>
-  <br>
-  <br> And this is the look of the dApp..
+  <br> 
+  <h3>And this is the look of the dApp..</h3>
   <br>
   
   ![ss bank dapp](https://user-images.githubusercontent.com/42699234/166113281-97e711ec-ba0e-416a-84ba-c56b58c93a94.PNG)
@@ -10,7 +10,7 @@
   <br>
   <br>
 
-  
+  </p>
   
 # Getting Started with Create React App
 
