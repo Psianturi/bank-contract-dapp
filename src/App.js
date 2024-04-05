@@ -12,7 +12,7 @@ function App() {
   const [customerAddress, setCustomerAddress] = useState(null);
   const [error, setError] = useState(null);
 
-  const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
+  const contractAddress = '0xeb95B81a31924f0aF413387bECfB1b9208365891';  //Hela Tesnet Chain Network 
   const contractABI = abi.abi;
 
   const checkIfWalletIsConnected = async () => {
